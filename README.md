@@ -1,2 +1,1 @@
-# jhipster4intellij
-JHipster for IntelliJ Plugin
+# JHipster for IntelliJ Plugin
